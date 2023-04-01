@@ -100,7 +100,7 @@
 
 } */
 
-@media(min-width:281px) and(max-width:768px) {
+@media (max-width:768px) {
     .home-section {
         width: 100%;
         height: max-content;
