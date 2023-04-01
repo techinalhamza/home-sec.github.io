@@ -103,7 +103,7 @@
 @media (max-width:768px) {
     .home-section {
         width: 100%;
-        height: max-content;
+        height: 100vh;
     }
 
     .nav {
